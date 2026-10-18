@@ -1,3 +1,11 @@
+# WARNING!
+
+Мигрировано во внутренний репозиторий:
+
+https://gitea.foxford.org/foxford/action-cve
+
+---
+
 ![marketing](https://user-images.githubusercontent.com/2741371/146811728-d2d9302b-f7f9-4296-82e3-e9812e562af9.png)
 
 ## @kunalnagarco/action-cve
